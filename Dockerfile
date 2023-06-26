@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="db1cd1b8-ce12-43d1-868a-05688dfb2226"
-ARG CADDYIndexPage="https://github.com/Lai-Monkey/HTML-ALL/raw/main/Animated-Login.zip"
+ARG AUUID="800d57aa-62d1-423b-89f8-0f751bb759a5"
+ARG CADDYIndexPage="https://github.com/Lai-Monkey/HTML-ALL/raw/main/A-html.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
